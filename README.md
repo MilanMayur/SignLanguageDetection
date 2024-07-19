@@ -8,3 +8,6 @@ To use the model:
 2. Run the model file 'model2.py' for creation and training of the model
 3. Run the 'detectcam.py' for detecting through the camera source
 4. Run the 'detectvideo.py to detect through a video
+
+Note: 
+Unable to load keras weight file (large size)
